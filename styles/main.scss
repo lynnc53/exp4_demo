@@ -1,0 +1,22 @@
+@import "~jspsych/css/jspsych.css";
+
+.jspsych-display-element {
+  background-color: #a6a6a6;
+  font-size: 25px;
+}
+#jspsych-image-button-response-stimulus {
+  margin: 10px !important;
+}
+.sv_main.sv_default_css .sv_body {
+  background-color: #a6a6a6 !important;
+}
+.sv_main.sv_default_css .sv_p_root>.sv_row:nth-child(2n+1) {
+  background-color: #a6a6a6 !important;
+}
+
+.sv_main.sv_default_css .sv_p_root>.sv_row:nth-child(2n) {
+  background-color: #a6a6a6 !important;
+}
+.sv_main.sv_default_css .sv_container {
+  color: rgb(22, 22, 22) !important;
+}

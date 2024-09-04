@@ -1,0 +1,26 @@
+Date: May/19th/2023
+Problem:
+1. Stimuli size too big, preloading problem (fixed)
+2. Test consent form (fixed)
+3. Figure out data server receiving (solved)
+5. Finish debriefing form.
+6. Add data tag 
+
+Date: 5/24/2023
+1. Link to prolific
+2. Fix consent bug
+3. Add progress bar
+4. Adjust visual aspect 
+5. Break point
+
+Date: 5/26/2023
+1. Randomize image display
+2. Adding data tag and forced response
+3. Fix progress bar display
+4. Fix break trial occurence
+5. Try prolific pipeline
+6. Maybe do something about image preload
+
+Date: 6/5/2023
+1. Changed the demographics questions into multiple choice
+2. Change the sequence of the element => pull out the plugin and mimick the grammar
